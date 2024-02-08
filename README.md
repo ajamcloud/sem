@@ -2,4 +2,4 @@
 
 **Hello World** 
 
-And welcome to the labs done by Maja
+Welcome to the labs done by Maja
